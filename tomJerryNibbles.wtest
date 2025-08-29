@@ -3,7 +3,7 @@ import tomJerryNibbles.*
 describe "Grupo de test" {
 
   test "test 1" {
-    assert.equals(100, 50+50)
+    assert.equals(10,tom.maxSpeed())
   }
 
   test "test 3" {
